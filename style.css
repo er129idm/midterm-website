@@ -1,0 +1,209 @@
+*{
+  font-family: 'EB Garamond', serif;
+  box-sizing: border-box;
+  border-width: 15px;
+  border-color: #a37800;
+}
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/05/07/59/stars-1436950_960_720.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.titleContainer{
+  font-size: 30px;
+  color: #a37800;
+  background-color: #ffffff;
+  padding: 20px;
+  margin:50px;
+  display: flex;
+  justify-content: center;
+}
+
+.headline {
+  color: #a37800;
+  font-size: 15px;
+  background-color: #ffffff;
+  padding: 20px;
+  margin:50px;
+  display: flex;
+  justify-content: center;
+}
+
+.cardSpread{
+  margin:50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #ffffff;
+  align-items: space-between;
+  padding: 20px;
+}
+
+.cardChoice{
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin:50px;
+  display: flex;
+  justify-content: center;
+}
+
+#one{
+  margin-left: 15px;
+}
+#two{
+  margin-left: -150px;
+}
+#three{
+  margin-left: -150px;
+}
+#four{
+  margin-left: -150px;
+}
+#five{
+  margin-left: -150px;
+}
+#six{
+  margin-left: -150px;
+}
+#seven{
+  margin-left: -150px;
+}
+#eight{
+  margin-left: -150px;
+}
+#nine{
+  margin-left: -150px;
+}
+#ten{
+  margin-left: -150px;
+}
+#eleven{
+  margin-left: -150px;
+}
+#twelve{
+  margin-left: -150px;
+}
+#thirteen{
+  margin-left: -150px;
+}
+#fourteen{
+  margin-left: -150px;
+}
+#fifteen{
+  margin-left: -150px;
+}
+#sixteen{
+  margin-left: -150px;
+}
+#seventeen{
+  margin-left: -150px;
+}
+#eighteen{
+  margin-left: -150px;
+}
+#nineteen{
+  margin-left: -150px;
+}
+#twenty{
+  margin-left: -150px;
+}
+#twentyone{
+  margin-left: -150px;
+}
+#twentytwo{
+  margin-left: -150px;
+}
+
+.nextPage {
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #a37800;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  color: #a37800;;
+  font-size: 30px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  padding: 5px;
+  margin: 50px;
+}
+
+.cardsPicked{
+  background-color: #ffffff;
+  padding: 20px;
+  margin:50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  color: #a37800;;
+}
+
+.backtoReading{
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #a37800;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.readCards{
+  font-size: 30px;
+  color: #ffffff;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #a37800;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.backtoSpread{
+  font-size: 30px;
+  color: #ffffff;
+  margin-top: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #a37800;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+#cardone{
+  margin: 10px;
+}
+
+#cardtwo{
+  margin: 10px;
+}
+
+#cardthree{
+  margin: 10px;
+}
+
+#past{
+  font-size: 20px;
+}
+
+#present{
+  font-size: 20px;
+}
+
+#future{
+  font-size: 20px;
+}
